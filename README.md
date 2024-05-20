@@ -17,16 +17,9 @@ Procurar em qualquer rede social listadas abaixo.
 Jonas Chagas
 
 ## Visual
-Home Page
 ![Home](https://i.imgur.com/cTrezTM.png)
-
-Add Food
 ![Add](https://i.imgur.com/4IZ8nYP.png)
-
-List Food
 ![List](https://i.imgur.com/xPUkddv.png)
-
-Edit Food
 ![Edit](https://i.imgur.com/E7yucB5.png)
 
 
