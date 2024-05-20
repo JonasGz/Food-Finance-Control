@@ -39,7 +39,7 @@ class EditScreen extends StatelessWidget {
         color: const Color(0xFF1A2023),
         child: Center(
           child: Container(
-            padding: const EdgeInsets.only(top: 30.0),
+            padding: const EdgeInsets.only(top: 10.0),
             width: screenWidth * 0.8,
             child: Column(
               children: [
@@ -63,7 +63,7 @@ class EditScreen extends StatelessWidget {
                   ),
                 ),
                 Padding(
-                  padding: const EdgeInsets.only(top: 30.0),
+                  padding: const EdgeInsets.only(top: 10.0),
                   child: TextField(
                     controller: nomeController,
                     decoration: const InputDecoration(
@@ -122,8 +122,8 @@ class EditScreen extends StatelessWidget {
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(30.0)),
                         child: const Icon(
-                          Icons.add,
-                          size: 50.0,
+                          Icons.edit,
+                          size: 40.0,
                           color: Color(0xFFDF4243),
                         ),
                       ),
