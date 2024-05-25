@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: const Color(0xFFDF4243),
         centerTitle: true,
         title: const Text(
-          "Food Control",
+          "Food Control Finance",
           style: TextStyle(
             color: Colors.white,
             fontFamily: 'Poppins-Regular',
